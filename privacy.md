@@ -1,12 +1,12 @@
-# Privacy Policy for [Bot Name]
+# Privacy Policy for The Archives#3737
 
-**Effective date:** [Date]
-**Operator:** [Bot Owner Name]
-**Contact:** [Contact Email or Discord Contact]
+**Effective date:** 28.06.2026
+**Operator:** Hamm3rhart
+**Contact:** Discord: Hamm3rhart
 
 ## 1. Overview
 
-This Privacy Policy explains how **[Bot Name]** (“the Bot”) handles data in Discord servers where the Bot is approved for use.
+This Privacy Policy explains how **The Archives#3737** (“the Bot”) handles data in Discord servers where the Bot is approved for use.
 
 The Bot is private and primarily intended for the **Dead by Daylight [GER]** Discord Server. It may also be used on other Discord servers only if the Bot owner has previously allowed the Bot to join that server. Internal systems may be used to prevent or remove unauthorized server access.
 
@@ -125,10 +125,10 @@ If you believe a minor’s data has been handled improperly, contact the operato
 
 ## 10. Changes
 
-This Privacy Policy may be updated from time to time. The latest version will be available at **[Privacy Policy URL or server channel]**.
+This Privacy Policy may be updated from time to time. The latest version will be available at **[Privacy Policy](https://hamm3rhart.github.io/the-archives-legal-terms/privacy)**.
 
 ## 11. Contact
 
 For privacy questions or deletion requests, contact:
 
-**[Contact Email or Discord Contact]**
+**Discord: Hamm3rhart**

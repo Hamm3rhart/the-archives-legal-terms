@@ -1,18 +1,18 @@
-# Terms of Service for [Bot Name]
+# Terms of Service for The Archives#3737
 
-**Effective date:** [Date]
-**Operator:** [Bot Owner Name]
-**Contact:** [Contact Email or Discord Contact]
+**Effective date:** 28.06.2026
+**Operator:** Hamm3rhart
+**Contact:** Discord: Hamm3rhart
 
 ## 1. Acceptance
 
-By using **[Bot Name]** (“the Bot”) in a Discord server, you agree to these Terms. If you do not agree, do not use the Bot.
+By using **The Archives#3737** (“the Bot”) in a Discord server, you agree to these Terms. If you do not agree, do not use the Bot.
 
 You must also follow Discord’s Terms of Service, Discord’s Community Guidelines, and all applicable laws.
 
 ## 2. About the Bot
 
-[Bot Name] is a private Discord bot primarily intended for the **Dead by Daylight [GER]** Discord Server.
+The Archives#3737 is a private Discord bot primarily intended for the **Dead by Daylight [GER]** Discord Server.
 
 The Bot may also be used on other Discord servers, but only if the Bot owner has previously allowed the Bot to join that server. Unauthorized invites or use outside approved servers are not permitted. Internal systems may be used to prevent or remove unauthorized server access.
 
@@ -49,10 +49,10 @@ To the maximum extent permitted by law, the operator is not responsible for loss
 
 ## 7. Changes
 
-These Terms may be updated from time to time. The latest version will be available at **[Terms URL or server channel]**.
+These Terms may be updated from time to time. The latest version will be available at **[TOS](https://hamm3rhart.github.io/the-archives-legal-terms/tos)**.
 
 ## 8. Contact
 
 Questions about these Terms can be sent to:
 
-**[Contact Email or Discord Contact]**
+**Discord: Hamm3rhart**
