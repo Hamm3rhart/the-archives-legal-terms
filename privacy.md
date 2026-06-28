@@ -29,9 +29,9 @@ Depending on enabled features, the Bot may process or store:
 * Channel ban or voice-channel protection settings;
 * Stream connection settings, such as linked Twitch or YouTube accounts, only if the user authorized the Bot to save them;
 * Server configuration settings;
-* Moderation actions, such as warnings, timeouts, kicks, or bans;
-* Moderation logs;
-* Message content, deleted messages, or edited messages, only if needed for enabled moderation or logging features.
+* Moderation actions, such as warnings, timeouts, kicks, or bans.
+
+**Note on message content & logs:** The Bot does not store message contents, message histories, or channel event logs. Chat messages are only processed in-memory (transit) when received to match auto-responder keywords and compute chat XP, and are discarded immediately afterward.
 
 The Bot only processes data needed to provide its private server features and to prevent unauthorized use on unapproved servers.
 
@@ -72,7 +72,7 @@ The Bot does **not** create user profiles to sell products, show ads, target use
 
 Data is used only for the Bot’s functionality and server-related features.
 
-Limited technical processing may occur through Discord, the Bot’s hosting systems, and the streaming platforms that a user has authorized, such as Twitch or YouTube, but only as needed to provide the Bot’s functionality. This is not used for advertising, marketing, profiling, or sale of data.
+Limited technical processing may occur through Discord, the Bot’s hosting hosting systems (secure servers located within the European Economic Area/EU), and the streaming platforms that a user has authorized, such as Twitch or YouTube, but only as needed to provide the Bot’s functionality. This is not used for advertising, marketing, profiling, or sale of data.
 
 ## 6. Data Retention
 
@@ -83,20 +83,17 @@ The following data may be kept for longer:
 * **XP/progress values**, so users do not lose their progress;
 * **Channel ban or voice-channel protection settings**, so blocked users cannot rejoin protected voice channels;
 * **User-authorized stream connections**, so stream-related features continue working until the user deletes the connection;
-* **Moderation logs**, where necessary to prevent repeated bad behavior, review rule violations, or enforce bans after multiple records;
 * **Server authorization data**, where necessary to ensure the Bot only works on approved servers.
 
 XP/progress values, channel ban settings, and stream connections can be deleted upon request.
 
 Stream connections can also be deleted by the user at any time through the Bot’s direct messages.
 
-Moderation logs may be retained for as long as reasonably necessary for server safety, abuse prevention, and rule enforcement.
-
 ## 7. Data Deletion Requests
 
 Users may request deletion of their personal data by contacting:
 
-**[Contact Email or Discord Contact]**
+**Discord: Hamm3rhart**
 
 Upon request, the operator can delete:
 
@@ -106,8 +103,6 @@ Upon request, the operator can delete:
 * User-authorized Twitch or YouTube stream connections.
 
 Users may also delete their saved stream connections directly through the Bot’s direct messages.
-
-Some moderation logs may be kept if they are necessary for server safety, abuse prevention, rule enforcement, or handling repeated misconduct.
 
 The operator may need to verify the requester’s Discord identity before completing a request.
 
@@ -123,11 +118,30 @@ The Bot is only intended for users who are old enough to use Discord under Disco
 
 If you believe a minor’s data has been handled improperly, contact the operator.
 
-## 10. Changes
+## 10. GDPR Rights (for European Union Users)
+
+If you are located in the European Union / European Economic Area (EEA), the processing of your personal data is subject to the General Data Protection Regulation (GDPR). 
+
+**Legal Basis for Processing:**
+* **Contractual Necessity (Art. 6(1)(b) GDPR):** To run Bot commands, track user XP/progress, and manage requested stream connections.
+* **Legitimate Interests (Art. 6(1)(f) GDPR):** To support server moderation, protect voice channels with ban registries, prevent spam/abuse/malicious raids, and verify server whitelisting to protect the bot and authorized community environments.
+
+**Your Rights:**
+Under the GDPR, you have the following rights regarding your personal data:
+* **Right of Access (Art. 15 GDPR):** You can request a copy of the data stored about you.
+* **Right to Rectification (Art. 16 GDPR):** You can request correction of inaccurate data.
+* **Right to Erasure / Right to be Forgotten (Art. 17 GDPR):** You can request deletion of your data.
+* **Right to Restriction of Processing (Art. 18 GDPR):** You can request that processing of your data is restricted under certain conditions.
+* **Right to Data Portability (Art. 20 GDPR):** You can request your data in a structured, machine-readable format.
+* **Right to Object (Art. 21 GDPR):** You can object to the processing of your data based on legitimate interests.
+
+To exercise these rights, please contact the operator. Furthermore, you have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR) if you believe the processing of your data violates the law.
+
+## 11. Changes
 
 This Privacy Policy may be updated from time to time. The latest version will be available at **[Privacy Policy](https://hamm3rhart.github.io/the-archives-legal-terms/privacy)**.
 
-## 11. Contact
+## 12. Contact
 
 For privacy questions or deletion requests, contact:
 

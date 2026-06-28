@@ -8,6 +8,8 @@
 
 By using **The Archives#3737** (“the Bot”) in a Discord server, you agree to these Terms. If you do not agree, do not use the Bot.
 
+You must be at least 13 years old (or the minimum age required in your country to consent to data processing without parental consent) to use the Bot. By using the Bot, you represent and warrant that you meet this age requirement.
+
 You must also follow Discord’s Terms of Service, Discord’s Community Guidelines, and all applicable laws.
 
 ## 2. About the Bot
@@ -35,7 +37,7 @@ The Bot may be used to support server moderation.
 
 Access to the Bot or the server may be restricted if users violate server rules, Discord rules, or these Terms. This may include warnings, command restrictions, channel restrictions, kicks, bans, or other moderation actions.
 
-Moderation logs may be kept where necessary to prevent repeated bad behavior, review rule violations, or enforce bans after multiple records.
+The operator reserves the right to terminate access to the Bot, decline service, or stop providing service to any user or server at any time, for any reason, with or without notice.
 
 ## 5. Availability
 
@@ -47,11 +49,15 @@ The operator does not guarantee uptime, uninterrupted access, or error-free oper
 
 To the maximum extent permitted by law, the operator is not responsible for losses, damages, deleted data, missing logs, downtime, Discord outages, or issues caused by incorrect configuration, misuse of the Bot, or unauthorized attempts to use the Bot outside approved servers.
 
-## 7. Changes
+## 7. Governing Law
+
+These Terms and any disputes arising out of or in connection with the use of the Bot shall be governed by and construed in accordance with the laws of **Germany**, without regard to its conflict of law provisions.
+
+## 8. Changes
 
 These Terms may be updated from time to time. The latest version will be available at **[TOS](https://hamm3rhart.github.io/the-archives-legal-terms/tos)**.
 
-## 8. Contact
+## 9. Contact
 
 Questions about these Terms can be sent to:
 
